@@ -8,4 +8,4 @@ setup(name='lighter',
       author_email='dave.fang@outlook.com',
       license='MIT',
       packages=['lighter'],
-      zip_safe=False)
+      zip_safe=False, install_requires=['numpy'])
